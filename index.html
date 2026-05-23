@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>In Loving Memory of Bubba</title>
+  <meta name="description" content="A celebration of life honoring our beloved Bubba — Ena.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="petals" aria-hidden="true"></div>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Celebration of Life</p>
+      <h1>In Loving Memory of <span>Bubba</span></h1>
+      <p class="subtitle">Forever in our hearts</p>
+      <nav class="hero-nav">
+        <a href="#slideshow">Watch Slideshow</a>
+        <a href="#gallery">View Photos</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="slideshow" class="section slideshow-section">
+      <div class="section-header">
+        <h2>Her Story in Pictures</h2>
+        <p>A gentle journey through the moments we cherish most.</p>
+      </div>
+
+      <div class="video-wrap">
+        <video id="slideshow-video" controls playsinline preload="metadata" poster="">
+          <source src="Assets/bubba-slideshow.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <div class="video-actions">
+          <button type="button" id="fullscreen-btn" class="btn-secondary">Fullscreen</button>
+          <button type="button" id="download-btn" class="btn-secondary">Download Video</button>
+        </div>
+      </div>
+
+      <div class="live-slideshow">
+        <div class="live-slideshow-frame">
+          <img id="live-slide" src="" alt="Memory slideshow">
+          <div class="live-caption">
+            <span id="slide-counter">1 / 75</span>
+          </div>
+        </div>
+        <div class="live-controls">
+          <button type="button" id="prev-btn" aria-label="Previous photo">&#8592;</button>
+          <button type="button" id="play-btn" class="btn-primary">Play Slideshow</button>
+          <button type="button" id="next-btn" aria-label="Next photo">&#8594;</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="gallery" class="section gallery-section">
+      <div class="section-header">
+        <h2>Photo Gallery</h2>
+        <p>Tap any photo to see it larger.</p>
+      </div>
+      <div id="gallery-grid" class="gallery-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="section tribute-section">
+      <blockquote>
+        <p>Those we love don't go away — they walk beside us every day.</p>
+      </blockquote>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>With love, always &mdash; Bubba's family</p>
+  </footer>
+
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="Photo viewer">
+    <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+    <button type="button" class="lightbox-nav lightbox-prev" aria-label="Previous photo">&#8592;</button>
+    <img id="lightbox-img" src="" alt="">
+    <button type="button" class="lightbox-nav lightbox-next" aria-label="Next photo">&#8594;</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
