@@ -293,6 +293,55 @@ a {
   object-fit: cover;
 }
 
+/* Memorial */
+.memorial-section {
+  padding-top: 2rem;
+}
+
+.memorial-card {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+  background: var(--warm-white);
+  border-radius: 16px;
+  box-shadow: 0 16px 40px var(--shadow);
+  border: 1px solid rgba(201, 160, 137, 0.25);
+}
+
+.memorial-lead {
+  margin: 0 0 1.5rem;
+  font-family: var(--font-serif);
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 500;
+  font-style: italic;
+  color: var(--ink);
+  text-align: center;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(201, 160, 137, 0.3);
+}
+
+.memorial-card p {
+  margin: 0 0 1.25rem;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--ink-soft);
+}
+
+.memorial-card p:last-child {
+  margin-bottom: 0;
+}
+
+.memorial-closing {
+  margin-top: 1.5rem !important;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(201, 160, 137, 0.3);
+  font-family: var(--font-serif);
+  font-size: 1.2rem !important;
+  font-style: italic;
+  text-align: center;
+  color: var(--ink) !important;
+}
+
 /* Tribute */
 .tribute-section {
   text-align: center;
@@ -380,6 +429,10 @@ a {
 
   .gallery-grid {
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  }
+
+  .memorial-card {
+    padding: 1.75rem 1.25rem;
   }
 
   .lightbox-nav {
