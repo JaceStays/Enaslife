@@ -49,7 +49,7 @@ a {
   padding: 4rem 1.5rem;
   background:
     linear-gradient(var(--hero-overlay), var(--hero-overlay)),
-  url("Assets/Images/IMG_1597_Original.jpg") center / cover no-repeat;
+  url("Assets/Images/IMG_6512.jpeg") center / cover no-repeat;
   color: var(--warm-white);
 }
 
