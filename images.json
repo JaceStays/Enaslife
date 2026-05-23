@@ -4,10 +4,6 @@
     "src": "IMG_0437_Original.jpg"
   },
   {
-    "file": "02b5fc22-92b2-4c82-8403-0512ceac0ee8.JPG",
-    "src": "02b5fc22-92b2-4c82-8403-0512ceac0ee8.JPG"
-  },
-  {
     "file": "0953A120-B4AB-4D0E-83D6-8584445E0610.JPG",
     "src": "0953A120-B4AB-4D0E-83D6-8584445E0610.JPG"
   },
@@ -56,6 +52,38 @@
     "src": "95580cf9-1377-4ee1-b6c8-9c7896650c67.JPEG"
   },
   {
+    "file": "b40584cd-a6a5-4b50-8b20-b42be9e07722.jpg",
+    "src": "b40584cd-a6a5-4b50-8b20-b42be9e07722.jpg"
+  },
+  {
+    "file": "b48d5870-7201-47e2-8b85-06a099f5046f.JPG",
+    "src": "b48d5870-7201-47e2-8b85-06a099f5046f.JPG"
+  },
+  {
+    "file": "ba80a47f-2110-4fe4-afd7-66e3d4fbe63a.JPG",
+    "src": "ba80a47f-2110-4fe4-afd7-66e3d4fbe63a.JPG"
+  },
+  {
+    "file": "c74c84ef-f0fc-4a26-835b-e2ef189402d2.jpg",
+    "src": "c74c84ef-f0fc-4a26-835b-e2ef189402d2.jpg"
+  },
+  {
+    "file": "c77a43e9-89d1-43fa-a7ec-8cd335c7dacb.JPG",
+    "src": "c77a43e9-89d1-43fa-a7ec-8cd335c7dacb.JPG"
+  },
+  {
+    "file": "d408c679-d657-4a86-baef-41dba04e97e6.JPG",
+    "src": "d408c679-d657-4a86-baef-41dba04e97e6.JPG"
+  },
+  {
+    "file": "e889aa19-89b5-4889-9ec8-5e4b68071670.JPG",
+    "src": "e889aa19-89b5-4889-9ec8-5e4b68071670.JPG"
+  },
+  {
+    "file": "efdd885f-4aea-4e8e-b2f7-e4b9dd58397b.JPG",
+    "src": "efdd885f-4aea-4e8e-b2f7-e4b9dd58397b.JPG"
+  },
+  {
     "file": "FF94BC5E-AF75-435C-BB00-1C4026364BCD.JPG",
     "src": "FF94BC5E-AF75-435C-BB00-1C4026364BCD.JPG"
   },
@@ -64,43 +92,43 @@
     "src": "IMG_0119_Original.jpg"
   },
   {
-    "file": "IMG_0610.heic",
+    "file": "IMG_0610.jpg",
     "src": "IMG_0610.jpg"
   },
   {
-    "file": "IMG_0722.HEIC",
+    "file": "IMG_0722.jpg",
     "src": "IMG_0722.jpg"
   },
   {
-    "file": "IMG_0723.heic",
+    "file": "IMG_0723.jpg",
     "src": "IMG_0723.jpg"
   },
   {
-    "file": "IMG_0725.heic",
+    "file": "IMG_0725.jpg",
     "src": "IMG_0725.jpg"
   },
   {
-    "file": "IMG_0726.HEIC",
+    "file": "IMG_0726.jpg",
     "src": "IMG_0726.jpg"
   },
   {
-    "file": "IMG_0792.heic",
+    "file": "IMG_0792.jpg",
     "src": "IMG_0792.jpg"
   },
   {
-    "file": "IMG_0793.heic",
+    "file": "IMG_0793.jpg",
     "src": "IMG_0793.jpg"
   },
   {
-    "file": "IMG_0805.heic",
+    "file": "IMG_0805.jpg",
     "src": "IMG_0805.jpg"
   },
   {
-    "file": "IMG_0806.heic",
+    "file": "IMG_0806.jpg",
     "src": "IMG_0806.jpg"
   },
   {
-    "file": "IMG_0807.heic",
+    "file": "IMG_0807.jpg",
     "src": "IMG_0807.jpg"
   },
   {
@@ -108,15 +136,11 @@
     "src": "IMG_0809.JPG"
   },
   {
-    "file": "IMG_0809.heic",
-    "src": "IMG_0809.JPG"
-  },
-  {
-    "file": "IMG_0922.HEIC",
+    "file": "IMG_0922.jpg",
     "src": "IMG_0922.jpg"
   },
   {
-    "file": "IMG_0924.HEIC",
+    "file": "IMG_0924.jpg",
     "src": "IMG_0924.jpg"
   },
   {
@@ -132,24 +156,12 @@
     "src": "IMG_1353.JPG"
   },
   {
-    "file": "IMG_1530.HEIC",
-    "src": "IMG_1530.jpeg"
-  },
-  {
     "file": "IMG_1530.jpeg",
     "src": "IMG_1530.jpeg"
   },
   {
-    "file": "IMG_1534.HEIC",
-    "src": "IMG_1534.jpeg"
-  },
-  {
     "file": "IMG_1534.jpeg",
     "src": "IMG_1534.jpeg"
-  },
-  {
-    "file": "IMG_1536.HEIC",
-    "src": "IMG_1536.jpeg"
   },
   {
     "file": "IMG_1536.jpeg",
@@ -172,8 +184,16 @@
     "src": "IMG_1769.jpg"
   },
   {
-    "file": "IMG_2161.HEIC",
+    "file": "IMG_2161.jpg",
     "src": "IMG_2161.jpg"
+  },
+  {
+    "file": "IMG_2512.jpeg",
+    "src": "IMG_2512.jpeg"
+  },
+  {
+    "file": "IMG_2517.jpeg",
+    "src": "IMG_2517.jpeg"
   },
   {
     "file": "IMG_3047 2.JPG",
@@ -220,7 +240,7 @@
     "src": "IMG_7604.JPG"
   },
   {
-    "file": "IMG_9005.heic",
+    "file": "IMG_9005.jpg",
     "src": "IMG_9005.jpg"
   },
   {
@@ -242,38 +262,6 @@
   {
     "file": "Mom and Dad at Vallarta Adventures 004.jpg",
     "src": "Mom and Dad at Vallarta Adventures 004.jpg"
-  },
-  {
-    "file": "b40584cd-a6a5-4b50-8b20-b42be9e07722.jpg",
-    "src": "b40584cd-a6a5-4b50-8b20-b42be9e07722.jpg"
-  },
-  {
-    "file": "b48d5870-7201-47e2-8b85-06a099f5046f.JPG",
-    "src": "b48d5870-7201-47e2-8b85-06a099f5046f.JPG"
-  },
-  {
-    "file": "ba80a47f-2110-4fe4-afd7-66e3d4fbe63a.JPG",
-    "src": "ba80a47f-2110-4fe4-afd7-66e3d4fbe63a.JPG"
-  },
-  {
-    "file": "c74c84ef-f0fc-4a26-835b-e2ef189402d2.jpg",
-    "src": "c74c84ef-f0fc-4a26-835b-e2ef189402d2.jpg"
-  },
-  {
-    "file": "c77a43e9-89d1-43fa-a7ec-8cd335c7dacb.JPG",
-    "src": "c77a43e9-89d1-43fa-a7ec-8cd335c7dacb.JPG"
-  },
-  {
-    "file": "d408c679-d657-4a86-baef-41dba04e97e6.JPG",
-    "src": "d408c679-d657-4a86-baef-41dba04e97e6.JPG"
-  },
-  {
-    "file": "e889aa19-89b5-4889-9ec8-5e4b68071670.JPG",
-    "src": "e889aa19-89b5-4889-9ec8-5e4b68071670.JPG"
-  },
-  {
-    "file": "efdd885f-4aea-4e8e-b2f7-e4b9dd58397b.JPG",
-    "src": "efdd885f-4aea-4e8e-b2f7-e4b9dd58397b.JPG"
   },
   {
     "file": "mom and dad Mexico (46).jpg",
